@@ -27,7 +27,7 @@ Adapted from [Repo](https://github.com/badstorm/surface-pro-7-opencore) with the
 |  :white_check_mark: |  Battery Status          |  With [BigSurface](https://github.com/Xiashangning/BigSurface)                 |
 |  :white_check_mark: |  Touch & Stylus          |  With [BigSurface](https://github.com/Xiashangning/BigSurface). You need to manualy insall [IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon)                |
 |                     |                                |                   |
-|  :white_check_mark: |  Camera Front and Rear        |                   |
+|  :white_check_mark: |  Camera Front        |                   |
 
 
 ### Known Issues
